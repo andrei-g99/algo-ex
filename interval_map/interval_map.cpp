@@ -215,8 +215,3 @@ public:
 		}
 	}
 };
-
-// Many solutions we receive are incorrect. Consider using a randomized test
-// to discover the cases that your implementation does not handle correctly.
-// We recommend to implement a test function that tests the functionality of
-// the interval_map, for example using a map of int intervals to char.
